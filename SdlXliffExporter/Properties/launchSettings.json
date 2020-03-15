@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SdlXliffExporter": {
+      "commandName": "Project"
+    },
+    "Languagecodes": {
+      "commandName": "Project",
+      "commandLineArgs": "-t sv-SE"
+    }
+  }
+}
